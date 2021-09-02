@@ -1,11 +1,11 @@
 # Homework 2b - Write a good Github repo
 
 ## Group 5 members
-- Anant Gadodia 
-- Anmolika Goyal
-- Shreya Someswar Karra 
-- Shubhagi Jain
-- Srujana Marne Shiva Rao
+- Anant Gadodia (agadodi)
+- Anmolika Goyal (agoyal4)
+- Shreya Someswar Karra (sskarra)
+- Shubhagi Jain (sjain29)
+- Srujana Marne Shiva Rao (smarnes)
 
 # Zelodo citation data
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5366712.svg)](https://doi.org/10.5281/zenodo.5366712)
